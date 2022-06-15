@@ -1,0 +1,29 @@
+*{
+
+}
+
+.dot1 {
+    height: 400px;
+    width: 400px;
+    margin-left: 100px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+}
+
+.dot2 {
+    height: 320px;
+    width: 320px;
+    margin-left: 250px;
+    background-color: tomato;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    color: #17494D;
+    font-weight: bold;
+}
