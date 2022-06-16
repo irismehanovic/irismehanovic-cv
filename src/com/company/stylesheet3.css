@@ -1,4 +1,4 @@
-/* html, body{
+html, body{
     height: 100%;
     font-weight: 800;
     margin: 0;
@@ -62,4 +62,3 @@ svg {
     100% {stroke-dashoffset: -35%;}
 }
 
-*/
